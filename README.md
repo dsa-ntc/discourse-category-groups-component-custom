@@ -1,5 +1,8 @@
 # Discourse Category Groups Component
 
+## This repo contains the following changes:
+* Reduced category box image size
+
 Sort Discourse categories into collapsible groups. 
 
 Read more on our Meta community: https://meta.discourse.org/t/category-groups-component/200874/1
