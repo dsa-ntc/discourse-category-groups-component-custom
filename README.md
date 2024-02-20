@@ -1,7 +1,7 @@
 # Discourse Category Groups Component
 
-## This repo contains the following changes:
-* Reduced category box image size
+## This repo is currently unchanged from the original, wishlist items if you're up for it:
+* change max width of subcategory images to 50px
 
 Sort Discourse categories into collapsible groups. 
 
